@@ -6,3 +6,4 @@ Nekaj sem dopisal pa še nekaj
 Dopisal sem še eno vrstico še neka
 
 Popravek1
+Popravek2
